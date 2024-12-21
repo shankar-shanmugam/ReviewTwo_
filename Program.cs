@@ -6,7 +6,10 @@ namespace ReviewTwo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            new SnakeAndLadder().Start();
+
+
         }
     }
 }

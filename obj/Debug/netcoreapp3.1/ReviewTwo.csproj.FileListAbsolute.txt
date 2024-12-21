@@ -1,0 +1,14 @@
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.exe
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.deps.json
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.runtimeconfig.json
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.runtimeconfig.dev.json
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.dll
+F:\c#practice\Collection in c#\ReviewTwo\bin\Debug\netcoreapp3.1\ReviewTwo.pdb
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.AssemblyInfoInputs.cache
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.AssemblyInfo.cs
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.csproj.CoreCompileInputs.cache
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.sourcelink.json
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.dll
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.pdb
+F:\c#practice\Collection in c#\ReviewTwo\obj\Debug\netcoreapp3.1\ReviewTwo.genruntimeconfig.cache
